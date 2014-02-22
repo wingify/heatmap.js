@@ -6,7 +6,8 @@
  * and the Beerware (http://en.wikipedia.org/wiki/Beerware) license.
  */
 
-(function(w){
+var __heatmapClosure; 
+(__heatmapClosure = function(w){
     // the heatmapFactory creates heatmap instances
     var heatmapFactory = (function(){
 
